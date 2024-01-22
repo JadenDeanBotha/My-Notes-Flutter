@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383623578718",
+    "project_id": "mynotes-flutter-jdbga",
+    "storage_bucket": "mynotes-flutter-jdbga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383623578718:android:e607e83bd8dc7f23b0e0cf",
+        "android_client_info": {
+          "package_name": "za.co.Hello.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXD4-mHJE0yampaOkmXsheqnjAe0YY9tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
